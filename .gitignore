@@ -1,0 +1,2 @@
+# Ignoramos draw_io.pdf, ya que la página genera dos páginas si tienes un esquema horizontal, por lo que es mejor usar un .PNG
+draw_io.pdf
