@@ -18,7 +18,7 @@ ORDER by Visitas ASC;
 
 -- ¿Cuántos pacientes hay de un grupo sangineo determinado?
 SELECT nombre as Nombre, paciente_id as CodigoPaciente, tipoSangre as TipoDeSangre
-FROM `paciente`
+FROM paciente
 WHERE tipoSangre NOT 'A+' or 'O-' 
 GROUP BY Nombre
 ORDER by paciente_id ASC;
