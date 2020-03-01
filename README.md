@@ -1,3 +1,3 @@
-# gimnasio
+# MUÉVETE FORMACIÓN
 
-hola cocacola
+Repositorio para el examen parcial de formación dual
